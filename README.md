@@ -1,4 +1,4 @@
-Criando alguns componentes no Angular para treino.
+# Criando alguns componentes no Angular para treino.
 
 
 # ProjetoAngular
